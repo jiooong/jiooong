@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <br>
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
+<h3 align="center">💻 DEV's log 💻</h3>
+<div align="center"; style="display:flex; flex-direction:row;">
     <a href="[https://li-yo.tistory.com](https://wldnjsdl.tistory.com)">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wldnjsdl&theme=default)]([https://wldnjsdl.tistory.com])
 </div><br>
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center"; style="display:flex; flex-direction:row;">
     <a href="mailto:lucy991010@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
