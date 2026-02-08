@@ -13,7 +13,7 @@ AI를 적극 활용해 빠르게 구현하고, 반복적으로 다듬어 가는 
 
 **Byaht (바이엇)** — Backend Developer `2024.05 ~`
 
-AI 기반 크리에이터 마케팅 SaaS **[Glow.B](https://www.byaht.com)** 를 만들고 있습니다.
+AI 기반 크리에이터 마케팅 SaaS **[Glow.B](https://glowb.io/ko)** 를 만들고 있습니다.
 크리에이터와 광고주를 연결하는 플랫폼으로, 4,000+ 협업 케이스와 27,000+ 인플루언서가 활동 중입니다.
 
 유일한 백엔드 개발자로서 Spring Boot API 서버, Python/FastAPI AI 서버, 어드민 페이지 개발을 담당하고 있습니다.
