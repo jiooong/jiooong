@@ -35,7 +35,7 @@ AI 기반 크리에이터 마케팅 SaaS **[Glow.B](https://www.byaht.com)** 를
 - Docker 기반 컨테이너화 및 Cloud Build를 활용한 CI/CD 파이프라인을 구성합니다
 
 **Observability** &nbsp; ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OTel-7B61FF?style=flat-square&logo=opentelemetry&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-- LGTM 스택을 직접 구축했습니다
+-  LGTM 스택 기반의 백엔드 모니터링 환경을 설계 및 구축했습니다
 - Sentry를 활용한 에러 트래킹을 진행한 경험이 있습니다
 
 **AI** &nbsp; ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Cloud Vision](https://img.shields.io/badge/Cloud_Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
